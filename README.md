@@ -16,5 +16,4 @@ You need a C++ compiler installed on your system, such as **GCC (`g++`)** or **C
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AainaGrace/Cpp-Mini-project-2.git](https://github.com/AainaGrace/Cpp-Mini-project-2.git)
-   cd Cpp-Mini-project-2
+  
