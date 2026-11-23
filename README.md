@@ -1,4 +1,4 @@
-# Student Management System (C++)
+# Student Mark Analyzer (C++)
 
 A simple Object-Oriented C++ program demonstrating encapsulation, constructors, getters/setters with validation, and object arrays using a `Student` class.
 
